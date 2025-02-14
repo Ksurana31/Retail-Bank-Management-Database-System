@@ -30,3 +30,6 @@ Role-based access control and encryption for enhanced security.
 
 ## Conclusion
 The BMDS project is a significant step toward modernizing banking operations, delivering seamless user experiences, and enabling better resource management.
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
